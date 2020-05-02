@@ -2,7 +2,7 @@ import React from 'react'
 import './styles.scss'
 
 const HomePage = () => {
-	return <div>Home Page</div>
+	return <div>Explore</div>
 }
 
 export default HomePage
