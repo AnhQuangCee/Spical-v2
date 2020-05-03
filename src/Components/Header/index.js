@@ -18,11 +18,11 @@ const Header = () => (
 			<Link className='option' to='/upload'>
 				Upload
 			</Link>
-			<Link className='option' to='/signup'>
-				Sign Up
-			</Link>
 			<Link className='option' to='/signin'>
 				SignIn
+			</Link>
+			<Link className='option' to='/signup'>
+				Sign Up
 			</Link>
 		</div>
 	</div>

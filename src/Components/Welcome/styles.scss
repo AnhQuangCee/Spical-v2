@@ -1,0 +1,36 @@
+.background-image {
+	background-image: url('../../Assets/images/background2.png');
+	width: 100%;
+	background-position: center center;
+	background-repeat: repeat;
+	height: 500px;
+}
+
+.welcomes {
+	position: absolute;
+	top: 200px;
+	left: 50%;
+	transform: translateX(-50%);
+}
+.slogan {
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	font-weight: 500;
+}
+.search {
+	width: 800px;
+
+	padding: 12px;
+	-webkit-appearance: none;
+	border-radius: 10px;
+	border-color: transparent;
+	outline: none;
+	margin: 10px 0;
+	font-size: 18px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.suggest {
+	color: white;
+}
